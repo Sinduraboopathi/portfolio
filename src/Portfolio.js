@@ -120,7 +120,7 @@ export default function Portfolio() {
   const experiences = [
     {
       role: "Software Development Engineer I",
-      company: "CalBrainT",
+      company: "Calibraint",
       period: "MAY 2025 - PRESENT",
       current: true,
       points: [
@@ -132,7 +132,7 @@ export default function Portfolio() {
     },
     {
       role: "Associate Software Developer",
-      company: "CalBrainT",
+      company: "Calibraint",
       period: "FEB 2025 - MAY 2025",
       current: false,
       points: [
@@ -370,7 +370,7 @@ export default function Portfolio() {
                 <div>
                   <h3 className="text-lg font-bold text-white">Star Performer of the Month</h3>
                   <p className="text-purple-400 font-mono text-sm mt-1">October 2025</p>
-                  <p className="text-gray-500 text-sm mt-1">Recognized for outstanding contributions at CalBrainT</p>
+                  <p className="text-gray-500 text-sm mt-1">Recognized for outstanding contributions at Calibraint</p>
                 </div>
               </div>
             </div>
